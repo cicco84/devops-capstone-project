@@ -1,6 +1,7 @@
 # Pin dependancies that might cause breakage
 Werkzeug==2.2.2
-
+Flask-Talisman
+Flask-Cors
 # Build dependencies
 Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
@@ -13,7 +14,7 @@ honcho==1.1.0
 
 # Code quality
 pylint==2.15.10
-flake8==6.0.0
+flake8
 black==22.3.0
 
 # Testing dependencies
