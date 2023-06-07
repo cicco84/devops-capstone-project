@@ -1,6 +1,7 @@
 # Pin dependancies that might cause breakage
 Werkzeug==2.2.2
 Flask-Talisman
+Flask-Cors
 # Build dependencies
 Flask==2.2.2
 Flask-SQLAlchemy==3.0.2
