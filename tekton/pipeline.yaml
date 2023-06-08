@@ -11,7 +11,7 @@ metadata:
 spec:
   workspaces:
     - name: pipeline-workspace
-  params:
+  params: 
     - name: repo-url
     - name: branch
       default: main
